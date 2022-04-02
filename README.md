@@ -16,6 +16,8 @@
 
 ### Provenance Graph
 
+**【2016-2018】**
+
 Shiqing Ma, et al. **ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting**. NDSS 2016
 - Paper: https://friends.cs.purdue.edu/pubs/NDSS16.pdf
 - Contribution：
@@ -46,6 +48,9 @@ Yang Ji, et al. **Enabling Refinable Cross-Host Attack Investigation with Effici
 - Institution：Georgia Institute of Technology
 
 
+---
+
+**【2019】**
 
 Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
 - Paper: https://arxiv.org/pdf/1910.00056.pdf
@@ -64,6 +69,10 @@ Wajih Ul Hassan, et al. **NoDoze: Combatting Threat Alert Fatigue with Automated
 - Contribution：
 - Institution：University of Illinois at Urbana-Champaign, Virginia Tech, NEC Laboratories America
 
+
+---
+
+**【2020】**
 
 Wajih Ul Hassan, et al. **Tactical Provenance Analysis for Endpoint Detection and Response Systems**. RapSheet. IEEE S&P 2020
 - Paper: https://ieeexplore.ieee.org/document/9152771
@@ -87,6 +96,18 @@ Riccardo Paccagnella, et al. **Logging to the Danger Zone: Race Condition Attack
 - Paper: https://www.kevliao.com/publications/kennyloggings-ccs2020.pdf
 - Contribution：
 - Institution：University of Illinois at Urbana-Champaign, Purdue University
+
+
+Wajih Ul Hassan, et al. **OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis**. NDSS 2020
+- Paper: https://www.ndss-symposium.org/wp-content/uploads/2020/02/24270-paper.pdf
+- Contribution：
+- Institution：University of Illinois at Urbana-Champaign
+
+
+
+---
+
+**【2021】**
 
 
 Abdulellah Alsaheel, et al. **ATLAS: A Sequence-based Learning Approach for Attack Investigation**. USENIX Sec 2021
