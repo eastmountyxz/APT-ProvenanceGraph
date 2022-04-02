@@ -26,7 +26,7 @@ Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit
 - Contribution：
 - Institution：University of Illinois at Chicago, University of Michigan-Dearborn
 
-Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. S&P 2019
+Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE S&P 2019
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
@@ -35,6 +35,12 @@ Wajih Ul Hassan, et al. **NoDoze: Combatting Threat Alert Fatigue with Automated
 - Paper: https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03B-1-3_UlHassan_paper.pdf
 - Contribution：
 - Institution：University of Illinois at Urbana-Champaign, Virginia Tech, NEC Laboratories America
+
+
+Wajih Ul Hassan, et al. **Tactical Provenance Analysis for Endpoint Detection and Response Systems**. RapSheet. IEEE S&P 2020
+- Paper: https://ieeexplore.ieee.org/document/9152771
+- Contribution：
+- Institution：University of Illinois at Urbana-Champaign, NortonLifeLock Research Group
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
 - Paper: https://arxiv.org/pdf/2001.01525.pdf
