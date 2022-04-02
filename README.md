@@ -16,20 +16,35 @@
 
 ### Provenance Graph
 
+Shiqing Ma, et al. **ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting**. NDSS 2016
+- Paper: https://friends.cs.purdue.edu/pubs/NDSS16.pdf
+- Contribution：
+- Institution：Purdue University
+
+
 Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
 - Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
 - Contribution：
 - Institution：Stony Brook University, University of Illinois at Chicago
+
+
+Yushan Liu, et al. **Towards a Timely Causality Analysis for Enterprise Security**. PrioTracker, NDSS 2018
+- Paper: https://www.princeton.edu/~pmittal/publications/priotracker-ndss18.pdf
+- Contribution：
+- Institution：Princeton University, Cornell University, NEC Labs America
+
 
 Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
 - Paper: https://arxiv.org/pdf/1910.00056.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago, University of Michigan-Dearborn
 
+
 Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE S&P 2019
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
+
 
 Wajih Ul Hassan, et al. **NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage**. NDSS 2019
 - Paper: https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03B-1-3_UlHassan_paper.pdf
@@ -41,6 +56,7 @@ Wajih Ul Hassan, et al. **Tactical Provenance Analysis for Endpoint Detection an
 - Paper: https://ieeexplore.ieee.org/document/9152771
 - Contribution：
 - Institution：University of Illinois at Urbana-Champaign, NortonLifeLock Research Group
+
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
 - Paper: https://arxiv.org/pdf/2001.01525.pdf
@@ -64,8 +80,6 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago
-
-
 
 
 
