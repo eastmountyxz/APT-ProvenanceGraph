@@ -76,10 +76,23 @@ Qi Wang, et al. **You Are What You Do: Hunting Stealthy Malware via Data Provena
 - Institution：University of Illinois Urbana-Champaign, NEC Laboratories America, University of Texas at Dallas
 
 
+Riccardo Paccagnella, et al. **Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks**. CCS 2020
+- Paper: https://www.kevliao.com/publications/kennyloggings-ccs2020.pdf
+- Contribution：
+- Institution：University of Illinois at Urbana-Champaign, Purdue University
+
+
 Abdulellah Alsaheel, et al. **ATLAS: A Sequence-based Learning Approach for Attack Investigation**. USENIX Sec 2021
 - Paper: https://www.usenix.org/system/files/sec21-alsaheel.pdf
 - Contribution：
 - Institution：Purdue University
+
+
+Carter Yagemann, et al. **Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks**. CCS 2021
+- Paper: https://dl.acm.org/doi/pdf/10.1145/3460120.3484551
+- Contribution：
+- Institution：Georgia Institute of Technology, University of Illinois Urbana-Champaign
+
 
 
 Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
