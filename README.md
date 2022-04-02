@@ -183,6 +183,13 @@ Yali Gao, et al. **HinCTI: A Cyber Threat Intelligence Modeling and Identificati
 ## 企业界
 
 
+- FireEye
+- 卡巴斯基
+- 绿盟：http://blog.nsfocus.net/tag/知识图谱/
+- 作者博客
+
+
+
 
 ---
 
