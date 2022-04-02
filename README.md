@@ -40,6 +40,13 @@ Wajih Ul Hassan, et al. **Towards Scalable Cluster Auditing through Grammatical 
 - Institution：University of Illinois at Urbana-Champaign, Boston University, UNC Charlotte
 
 
+Yang Ji, et al. **Enabling Refinable Cross-Host Attack Investigation with Efficient Data Flow Tagging and Tracking**. USENIX Sec 2018
+- Paper: https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-ji.pdf
+- Contribution：
+- Institution：Georgia Institute of Technology
+
+
+
 Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
 - Paper: https://arxiv.org/pdf/1910.00056.pdf
 - Contribution：
