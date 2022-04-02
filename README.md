@@ -18,21 +18,22 @@ Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from 
 Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
 - Paper: https://arxiv.org/pdf/1910.00056.pdf
 - Contribution：
-- Contribution：University of Illinois at Chicago, University of Michigan-Dearborn
+- Institution：University of Illinois at Chicago, University of Michigan-Dearborn
 
 Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. S&P 2019
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
 - Contribution：
-- Contribution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
+- Institution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
-- Paper: https://arxiv.org/abs/2001.01525
+- Paper: https://arxiv.org/pdf/2001.01525.pdf
 - Contribution：
+- Institution：
 
 Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
-
+- Institution：
 
 
 **(2) Knowledge Graph**
@@ -40,10 +41,11 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
 Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. RAID 2020
 - Paper: https://www.usenix.org/system/files/raid20-zhao.pdf
 - Contribution：
+- Institution：
 
 Yali Gao, et al. **HinCTI: A Cyber Threat Intelligence Modeling and Identification System Based on Heterogeneous Information Network**. IEEE TKDE 2020
 - Contribution：
-
+- Institution：
 
 
 ---
