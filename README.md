@@ -8,11 +8,10 @@
 
 ## 学术界
 
+Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
+- 图结构提升隐蔽APTs检测
+- https://arxiv.org/abs/2001.01525
 
-- [1] **NDSS 2020**. Xueyuan Han, Thomas F. J.-M. Pasquier, Adam Bates, James Mickens, Margo I. Seltzer:
-**Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**.  图结构提升隐蔽APTs检测 <br />
-https://arxiv.org/abs/2001.01525 <br />
-https://blog.csdn.net/xjxtx1985/article/details/106473928 【中文后续自归纳】
 - [2] **S&P 2019**. Sadegh Momeni Milajerdi, Rigel Gjomemo, Birhanu Eshete, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE Symposium on Security and Privacy 2019: 1137-1152. 协同信息溯源、日志、TTPs  <br />
 https://arxiv.org/pdf/1810.01594.pdf <br />
 https://www.secrss.com/articles/14488 【中文后续自归纳】
