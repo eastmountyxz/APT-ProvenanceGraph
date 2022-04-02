@@ -6,14 +6,6 @@
 - [基于溯源图的APT攻击检测安全顶会总结](https://blog.csdn.net/Eastmount/article/details/120555733)
 
 
-<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-01.png" width="60%" height="60%" /></div>
-  
-<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-02.png" width="60%" height="60%" /></div>
-
- 
-
-
-  
 ----
 
 ## 学术界
@@ -46,16 +38,27 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
 - Institution：University of Illinois at Chicago
 
 
+
+<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-01.png" width="60%" height="60%" /></div>
+ 
+<br />
+
+<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-02.png" width="60%" height="60%" /></div>
+
+ 
+---
+
 ### (2) Knowledge Graph
 
 Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. RAID 2020
 - Paper: https://www.usenix.org/system/files/raid20-zhao.pdf
 - Contribution：
-- Institution：
+- Institution：Beihang University, Michigan State University
 
 Yali Gao, et al. **HinCTI: A Cyber Threat Intelligence Modeling and Identification System Based on Heterogeneous Information Network**. IEEE TKDE 2020
 - Contribution：
 - Institution：
+
 
 
 ---
