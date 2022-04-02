@@ -41,6 +41,12 @@ Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Pe
 - Contribution：
 - Institution：Harvard University, University of Bristol, University of Illinois at Urbana-Champaign, University of British Columbia
 
+
+Qi Wang, et al. **You Are What You Do: Hunting Stealthy Malware via Data Provenance Analysis**. NDSS 2020
+- Paper: https://www.ndss-symposium.org/wp-content/uploads/2020/02/24167-paper.pdf
+- Contribution：
+- Institution：University of Illinois Urbana-Champaign, NEC Laboratories America, University of Texas at Dallas
+
 Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
