@@ -6,12 +6,12 @@
 - [基于溯源图的APT攻击检测安全顶会总结](https://blog.csdn.net/Eastmount/article/details/120555733)
 
 
-<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-01.png" width="60%" height="60%" />
+<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-01.png" width="60%" height="60%" /></div>
   
-<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-02.png" width="60%" height="60%" />
+<div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-02.png" width="60%" height="60%" /></div>
 
  
-[TOC]
+
 
   
 ----
