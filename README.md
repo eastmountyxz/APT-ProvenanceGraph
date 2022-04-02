@@ -8,13 +8,16 @@
 
 ## 学术界
 
-Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
-- 图结构提升隐蔽APTs检测
-- https://arxiv.org/abs/2001.01525
+**Provenance Graph**
 
-- [2] **S&P 2019**. Sadegh Momeni Milajerdi, Rigel Gjomemo, Birhanu Eshete, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE Symposium on Security and Privacy 2019: 1137-1152. 协同信息溯源、日志、TTPs  <br />
-https://arxiv.org/pdf/1810.01594.pdf <br />
-https://www.secrss.com/articles/14488 【中文后续自归纳】
+Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
+- Paper: https://arxiv.org/abs/2001.01525
+- Contribution：
+
+Sadegh Momeni Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. S&P 2019
+- Paper: https://arxiv.org/pdf/1810.01594.pdf
+
+
 - [3] **USENIX 2017**. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**
 - [4] **CCS 2019**. Sadegh M. Milajerdi，Birhanu Eshete, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. 实体构建、攻击威胁猎杀 <br />
 https://arxiv.org/pdf/1910.00056.pdf <br />
@@ -29,6 +32,9 @@ https://raid2020.org/accepted-papers/
 - [8] Yali Gao,  Xiaoyong Li, Hao Peng, Binxing Fang, Philip S. Yu. HinCTI: A Cyber  Threat Intelligence Modeling and Identification System Based on Heterogeneous  Information Network.. IEEE TKDE 2020. (CCF A)
 - [9] **EuroS&P**. Kiavash Satvat, Rigel Gjomemo and V.N. Venkatakrishnan, **EXTRACTOR: Extracting Attack Behavior from Threat Reports**  <br />
 https://arxiv.org/pdf/2104.08618.pdf <br />
+
+
+**Knowledge Graph**
 
 
 ---
