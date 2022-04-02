@@ -48,6 +48,14 @@ Yang Ji, et al. **Enabling Refinable Cross-Host Attack Investigation with Effici
 - Institution：Georgia Institute of Technology
 
 
+Thomas F. J.-M. Pasquier, et al. **Runtime Analysis of Whole-System Provenance**. CCS 2018
+- Paper: https://dl.acm.org/doi/pdf/10.1145/3243734.3243776
+- Contribution：
+- Institution：University of Bristol, Harvard University, University of North Carolina at Charlotte, University of Illinois at Urbana-Champaign
+
+
+
+
 ---
 
 **【2019】**
