@@ -8,8 +8,6 @@
 
 `目录`
 - [学术界](#学术界)
-- [Provenance Graph](#Provenance Graph)
-- [Knowledge Graph](#Knowledge Graph)
 - [企业界](#企业界)
 
 ----
@@ -32,6 +30,11 @@ Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlatio
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
+
+Wajih Ul Hassan, et al. **NoDoze: Combatting Threat Alert Fatigue with Automated Provenance Triage**. NDSS 2019
+- Paper: https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03B-1-3_UlHassan_paper.pdf
+- Contribution：
+- Institution：University of Illinois at Urbana-Champaign, Virginia Tech, NEC Laboratories America
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
 - Paper: https://arxiv.org/pdf/2001.01525.pdf
