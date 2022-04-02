@@ -56,6 +56,7 @@ Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Gra
 - Institution：Beihang University, Michigan State University
 
 Yali Gao, et al. **HinCTI: A Cyber Threat Intelligence Modeling and Identification System Based on Heterogeneous Information Network**. IEEE TKDE 2020
+- Paper: https://ieeexplore.ieee.org/document/9072563
 - Contribution：
 - Institution： Beijing University of Posts and Telecommunications, Beihang University, University of Illinois at Chicago
 
