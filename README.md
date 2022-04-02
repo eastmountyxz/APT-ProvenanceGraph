@@ -1,8 +1,8 @@
 # APT-ProvenanceGraph
-该资源是各种溯源图相关的论文和资源总结，涉及APT攻击检测、入侵检测、流量日志检测、系统安全等领域，希望对大家有所帮助~
+该资源是各种溯源图相关的论文和资源总结，根目录为作者分享文章的PPT。涉及APT攻击检测、入侵检测、流量日志检测、系统安全等领域，希望对大家有所帮助~
 
 
-该资源根目录为作者分享文章的PPT。
+`推荐作者博客`：
 - [基于溯源图的APT攻击检测安全顶会总结](https://blog.csdn.net/Eastmount/article/details/120555733)
 
 
@@ -10,35 +10,36 @@
 
 **Provenance Graph**
 
+Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
+- Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
+- Contribution：
+- Institution：Stony Brook University, University of Illinois at Chicago
+
+Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
+- Paper: https://arxiv.org/pdf/1910.00056.pdf
+- Contribution：
+- Contribution：
+
 Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. S&P 2019
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
+- Contribution：
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
 - Paper: https://arxiv.org/abs/2001.01525
 - Contribution：
 
-Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
-- Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
+Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
+- Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
 
 
 
-- [4] **CCS 2019**. Sadegh M. Milajerdi，Birhanu Eshete, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. 实体构建、攻击威胁猎杀 <br />
-https://arxiv.org/pdf/1910.00056.pdf <br />
-https://blog.csdn.net/sc0fie1d/article/details/105103342 【中文后续自归纳】
-- [5] **TIFS 2018**. Yuqing Li, Wenkuan Dai, Jie Bai, et al. **An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats**   <br />
-https://ieeexplore.ieee.org/abstract/document/8386813
-- [6] **Computer & Science**. LIU H B, WU T B, SHEN J, et al, **Advanced Persistent Threat Detection Based on Generative Adversarial Networks and Long Short-term Memory**. in Computer Science, vol.47, no.1, pp.281-286, 2020.  恶意DNS和流量分析的APT恶意软件检测  <br />
+**Knowledge Graph**
+
 - [7] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模   <br />
 https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
-https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】 <br />
-https://raid2020.org/accepted-papers/
+
 - [8] Yali Gao,  Xiaoyong Li, Hao Peng, Binxing Fang, Philip S. Yu. HinCTI: A Cyber  Threat Intelligence Modeling and Identification System Based on Heterogeneous  Information Network.. IEEE TKDE 2020. (CCF A)
-- [9] **EuroS&P**. Kiavash Satvat, Rigel Gjomemo and V.N. Venkatakrishnan, **EXTRACTOR: Extracting Attack Behavior from Threat Reports**  <br />
-https://arxiv.org/pdf/2104.08618.pdf <br />
-
-
-**Knowledge Graph**
 
 
 ---
