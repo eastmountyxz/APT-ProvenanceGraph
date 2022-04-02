@@ -6,9 +6,11 @@
 - [基于溯源图的APT攻击检测安全顶会总结](https://blog.csdn.net/Eastmount/article/details/120555733)
 
 
+
+
 ## 学术界
 
-**(1) Provenance Graph**
+<font color="red">**(1) Provenance Graph**</font>
 
 Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
 - Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
