@@ -53,10 +53,19 @@ Qi Wang, et al. **You Are What You Do: Hunting Stealthy Malware via Data Provena
 - Contribution：
 - Institution：University of Illinois Urbana-Champaign, NEC Laboratories America, University of Texas at Dallas
 
+
+Abdulellah Alsaheel, et al. **ATLAS: A Sequence-based Learning Approach for Attack Investigation**. USENIX Sec 2021
+- Paper: https://www.usenix.org/system/files/sec21-alsaheel.pdf
+- Contribution：
+- Institution：Purdue University
+
+
 Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago
+
+
 
 
 
