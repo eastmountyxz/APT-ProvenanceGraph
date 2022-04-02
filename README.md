@@ -94,6 +94,12 @@ Carter Yagemann, et al. **Validating the Integrity of Audit Logs Against Executi
 - Institution：Georgia Institute of Technology, University of Illinois Urbana-Champaign
 
 
+Xutong Chen, et al. **CLARION: Sound and Clear Provenance Tracking for Microservice Deployments**. USENIX Sec 2021
+- Paper: https://www.usenix.org/system/files/sec21-chen-xutong.pdf
+- Contribution：
+- Institution：Northwestern University, SRI International
+
+
 
 Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Reports**. EuroS&P 2021
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
