@@ -8,7 +8,7 @@
 
 ## 学术界
 
-**Provenance Graph**
+**(1) Provenance Graph**
 
 Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
 - Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
@@ -23,6 +23,7 @@ Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit
 Sadegh M. Milajerdi, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. S&P 2019
 - Paper: https://arxiv.org/pdf/1810.01594.pdf
 - Contribution：
+- Contribution：University of Illinois at Chicago, University of Michigan-Dearborn, Stony Brook University
 
 Xueyuan Han, et al. **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**. NDSS 2020
 - Paper: https://arxiv.org/abs/2001.01525
@@ -34,7 +35,7 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
 
 
 
-**Knowledge Graph**
+**(2) Knowledge Graph**
 
 Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. RAID 2020
 - Paper: https://www.usenix.org/system/files/raid20-zhao.pdf
@@ -42,6 +43,8 @@ Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Gra
 
 Yali Gao, et al. **HinCTI: A Cyber Threat Intelligence Modeling and Identification System Based on Heterogeneous Information Network**. IEEE TKDE 2020
 - Contribution：
+
+
 
 ---
 
