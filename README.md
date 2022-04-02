@@ -8,15 +8,15 @@
 
 `目录`
 - [学术界](##学术界)
--[Provenance Graph](##(1) Provenance Graph)
--[Knowledge Graph](##(2) Knowledge Graph)
+- [Provenance Graph](##Provenance Graph)
+- [Knowledge Graph](##Knowledge Graph)
 - [企业界](##企业界)
 
 ----
 
 ## 学术界
 
-### (1) Provenance Graph
+### Provenance Graph
 
 Md Nahid Hossain, et al. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**. USENIX Sec 2017
 - Paper: https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-hossain.pdf
@@ -54,7 +54,7 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
  
 ---
 
-### (2) Knowledge Graph
+### Knowledge Graph
 
 Jun Zhao, et al. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. RAID 2020
 - Paper: https://www.usenix.org/system/files/raid20-zhao.pdf
