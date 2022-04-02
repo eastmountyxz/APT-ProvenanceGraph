@@ -34,6 +34,12 @@ Yushan Liu, et al. **Towards a Timely Causality Analysis for Enterprise Security
 - Institution：Princeton University, Cornell University, NEC Labs America
 
 
+Wajih Ul Hassan, et al. **Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs**. NDSS 2018
+- Paper: https://whassan3.web.engr.illinois.edu/papers/hassan-ndss18.pdf
+- Contribution：
+- Institution：University of Illinois at Urbana-Champaign, Boston University, UNC Charlotte
+
+
 Sadegh M. Milajerdi, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. CCS 2019
 - Paper: https://arxiv.org/pdf/1910.00056.pdf
 - Contribution：
@@ -80,6 +86,12 @@ Kiavash Satvat, et al. **EXTRACTOR: Extracting Attack Behavior from Threat Repor
 - Paper: https://arxiv.org/pdf/2104.08618.pdf
 - Contribution：
 - Institution：University of Illinois at Chicago
+
+
+Zhenyuan Li, et al. **Threat detection and investigation with system-level provenance graphs: A survey**. C&S 2021
+- Paper: https://www.sciencedirect.com/science/article/pii/S0167404821001061
+- Contribution：
+- Institution：Zhejiang University, University of California, Northwestern University
 
 
 
